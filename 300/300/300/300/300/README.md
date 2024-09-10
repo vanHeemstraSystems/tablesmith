@@ -28,8 +28,8 @@ Now the exciting part: the **Sheet name** field. By default, it is set to ```She
 
 5. **Save** and close the formula editor.
 
-
+![create_a_new_pipeline-028](https://github.com/user-attachments/assets/ea817904-d5e7-487a-b393-92150f757a4b)
 
 7. Click **Save** again to finish creating this output.
 
-MORE
+![create_a_new_pipeline-029](https://github.com/user-attachments/assets/bf6b7c6d-cd4b-4957-9d0d-aa3d8f876532)
