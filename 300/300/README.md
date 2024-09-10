@@ -6,6 +6,6 @@ Throughout this tutorial, we'll guide you through creating a basic pipeline for 
 
 ## 100 - Example Data
 
-See [README.md](./100/README.md]
+See [README.md](./100/README.md)
 
 ## 200 - Objective
