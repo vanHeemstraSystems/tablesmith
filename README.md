@@ -3,7 +3,7 @@ tablesmith
 
 > Reusable automated spreadsheet pipelines
 
-Based on "Tablesmith" at https://www.tablesmith.com/
+Based on "Tablesmith" at https://tablesmith.io/
 
 ## 100 - Introduction
 
