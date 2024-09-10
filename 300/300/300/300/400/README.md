@@ -36,10 +36,14 @@
 
 12. Click **Done**.
 
-13.  
-14.
-15. Save it and click **Done** Here is the data view of the "pop" genre.
+![create_a_new_pipeline-039](https://github.com/user-attachments/assets/6ac7a155-3d49-4c14-bdee-164caf29e4fe)  
+   
+15. **Save** (use **Save All** for multiple files) the output. By default it will save it in your Downloads directory, but it can be changed in the preferences of Tablesmith.
 
+![create_a_new_pipeline-038](https://github.com/user-attachments/assets/1c8ec57d-52b7-4f43-a6eb-8a38818c3c32)  
+   
+18.   Click **Done**.
 
+![create_a_new_pipeline-041](https://github.com/user-attachments/assets/e8372196-12d8-43a4-a044-322b15b58f68)
 
 MORE
