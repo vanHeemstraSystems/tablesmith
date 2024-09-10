@@ -14,7 +14,6 @@ Click **Add condition**.
 
 Choose ```track_popularity``` as the **Sort by column** and **9-> (descending)** as the order.
 
+![create_a_new_pipeline-013](https://github.com/user-attachments/assets/3ec1c451-d229-4de5-a4f2-eccd651346f3)
 
-== IMAGE GOES HERE ==
-
-Click **Save**
+Click **Save**.
