@@ -8,7 +8,9 @@
 
 2. Input a name for your pipeline (description is optional), here: ```Tracks```.
 
+![create_a_new_pipeline-002](https://github.com/user-attachments/assets/0021ce6f-2c28-407f-b65a-cc19083beef2)
+
+3. Click **Save**. You should see a screen similar to this:
 
 
-5. Click **Save**. You should see a screen similar to this:
 
