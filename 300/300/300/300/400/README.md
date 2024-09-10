@@ -18,7 +18,27 @@
 
 ![create_a_new_pipeline-034](https://github.com/user-attachments/assets/3a0a9cee-714c-4281-8d66-27bce0be706b)
 
-5. You'll be on the ```Run page``` which lists all the stages. Click **Start**, wait for it to finish, then click**Next**.
+5. You'll be on the ```Run page``` which lists all the stages. Click **Start**, wait for it to finish..
+
+![create_a_new_pipeline-035](https://github.com/user-attachments/assets/38589dd4-c192-4c48-84f8-6c8c89dc56f9)
+
+6. Click **Next**.
+
+![create_a_new_pipeline-036](https://github.com/user-attachments/assets/fc697cda-6f02-4af4-95e5-c3ed0dbdf93c)
+
+7. You will see your output files. You can view the data first or save them to disk directly. Click **View**.
+
+![create_a_new_pipeline-037](https://github.com/user-attachments/assets/e87ccb95-2e59-4e1b-a4d6-d3173dcfc6de)
+
+11. Choose **rock** genre, for example.
+
+![create_a_new_pipeline-038](https://github.com/user-attachments/assets/1c8ec57d-52b7-4f43-a6eb-8a38818c3c32)
+
+12. Click **Done**.
+
+13.  
+14.
+15. Save it and click **Done** Here is the data view of the "pop" genre.
 
 
 
