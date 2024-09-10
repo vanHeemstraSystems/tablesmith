@@ -16,5 +16,8 @@ We use the file that is in this repository at ```data/csv_ms_dos.csv```, hence w
 
 ![create_a_new_pipeline-004](https://github.com/user-attachments/assets/e34d85d6-0f7f-4623-9876-c8161ab54259)
 
+Select the file ```tracks_ms_dos.csv``` and click **Open**.
 
+![create_a_new_pipeline-005](https://github.com/user-attachments/assets/5dd06862-7db7-432e-a100-51156c1b9ab8)
 
+You will be prompted as above, but as the first in the csv file contains indeed the column names, we can continue by clicking **Done**.
