@@ -17,3 +17,5 @@ Choose ```track_popularity``` as the **Sort by column** and **9-> (descending)**
 ![create_a_new_pipeline-013](https://github.com/user-attachments/assets/3ec1c451-d229-4de5-a4f2-eccd651346f3)
 
 Click **Save**.
+
+![create_a_new_pipeline-014](https://github.com/user-attachments/assets/68016faa-24e9-4b6f-9bbf-326c3a42d0bc)
