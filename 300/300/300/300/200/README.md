@@ -30,4 +30,4 @@ Set the **Limit** to 10 (for the top 10 tracks).
 
 Click **Save**
 
-MORE
+![create_a_new_pipeline-022](https://github.com/user-attachments/assets/b72f13c7-3dbe-48b1-894b-e72cb790fe40)
