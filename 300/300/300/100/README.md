@@ -1,6 +1,6 @@
 # 100 - Step 1: Create a New Pipeline
 
-**NOTE**: We'll be using the web edition of Tablesmith, but the App allows for the same.
+**NOTE**: We'll be using the [web edition](https://tablesmith.io/app) of Tablesmith, but the App allows for the same.
 
 1. Click the **Create a New Pipeline** button.
 
