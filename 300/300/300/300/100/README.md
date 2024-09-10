@@ -1,6 +1,8 @@
 # 100 - Create the First Stage (Sort)
 
+We were here:
 
+![create_a_new_pipeline-010](https://github.com/user-attachments/assets/0b58aed3-3a65-48d6-888b-95de6e62a80b)
 
 Click **Add stage** (if not already done so in the previous section) and select the **Sort** stage type.
 
