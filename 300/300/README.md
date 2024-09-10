@@ -9,3 +9,9 @@ Throughout this tutorial, we'll guide you through creating a basic pipeline for 
 See [README.md](./100/README.md)
 
 ## 200 - Objective
+
+See [README.md](./200/README.md)
+
+## 300 - Getting Started
+
+See [README.md](./200/README.md)
