@@ -17,6 +17,6 @@ To get started, let's look at the example data. This should be in a spreadsheet 
 | Bastille | Triomphe | 36 | edm | electro house | 0.249 |
 | Leaving | High John | 52 | rap | hip hop | 0.293 |
 
-See tracks.csv in this repository
+See ```data/tracks_ms_dos.csv``` (for Windows) and ```data/csv_macintosh.csv``` (for MacOS) in this repository.
 
 ## 200 - Objective
