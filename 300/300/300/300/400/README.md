@@ -40,10 +40,12 @@
    
 15. **Save** (use **Save All** for multiple files) the output. By default it will save it in your Downloads directory, but it can be changed in the preferences of Tablesmith.
 
-![create_a_new_pipeline-038](https://github.com/user-attachments/assets/1c8ec57d-52b7-4f43-a6eb-8a38818c3c32)  
+![create_a_new_pipeline-040](https://github.com/user-attachments/assets/ed5801eb-38b6-438e-bfa2-b6c98f1d3c10) 
    
 18.   Click **Done**.
 
 ![create_a_new_pipeline-041](https://github.com/user-attachments/assets/e8372196-12d8-43a4-a044-322b15b58f68)
 
-MORE
+Congratulations! You've successfully created your first Tablesmith pipeline. You've learned to group, sort, and extract data with ease.
+
+Exploer Tablesmith's documentation and tutorials at https://tablesmith.io/ to discover its full potential!
