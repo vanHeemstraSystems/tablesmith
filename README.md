@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+tablesmith
+# Tablesmith
 
-Based on "ABC" at https://www.abc.com/
+> Reusable automated spreadsheet pipelines
+
+Based on "Tablesmith" at https://www.tablesmith.com/
 
 ## 100 - Introduction
 
