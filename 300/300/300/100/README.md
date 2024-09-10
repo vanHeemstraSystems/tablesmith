@@ -12,5 +12,5 @@
 
 3. Click **Save**. You should see a screen similar to this:
 
-
+![create_a_new_pipeline-003](https://github.com/user-attachments/assets/fc10e623-1391-4213-b278-3d0f352b1c38)
 
