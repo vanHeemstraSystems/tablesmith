@@ -14,5 +14,7 @@ However, if you don't have the file but understand the data structure (schema), 
 
 We use the file that is in this repository at ```data/csv_ms_dos.csv```, hence we click **Load columns from file```:
 
+![create_a_new_pipeline-004](https://github.com/user-attachments/assets/e34d85d6-0f7f-4623-9876-c8161ab54259)
+
 
 
