@@ -14,3 +14,9 @@
 
 ![create_a_new_pipeline-003](https://github.com/user-attachments/assets/fc10e623-1391-4213-b278-3d0f352b1c38)
 
+As you can see, the TAblesmith workspace for a pipeline is divided into three parts:
+- Input
+- Stages
+- Output
+
+We'll explore each section in detail to guide you through creating your pipeline.
