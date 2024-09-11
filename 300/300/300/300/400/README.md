@@ -48,6 +48,8 @@
 
 The output.xslx can be looked at as we have added it to this repository in ```data/output.xslx```.
 
+![create_a_new_pipeline-042](https://github.com/user-attachments/assets/6944e224-3dc8-4b78-868d-661fd4c0e15d)
+
 Congratulations! You've successfully created your first Tablesmith pipeline. You've learned to group, sort, and extract data with ease.
 
 Explore Tablesmith's documentation and tutorials at https://tablesmith.io/ to discover its full potential!
